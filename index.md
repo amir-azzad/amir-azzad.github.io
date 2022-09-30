@@ -82,14 +82,14 @@ layout:
             <div class="smbox bluebox col-narrow sortable-cv-items">
                 <div class="contact-info_item not-drag">
                     <div class="name-job-desc not-drag">
-                        <div class="user-image not-drag" style="background-image:url(&#x27;/Files/User_Photo/7465c221-dc58-44d6-885b-ec75b19062be/oP0RYgVrokOG-7wgDxqLcg-242.jpg&#x27;);"></div>
-                        <h1 class="not-drag">بیتا راهدار</h1>
+                        <div class="user-image not-drag" style="background-image:url(&#x27;/Files/User_Photo/a1dc681b-0328-4a5c-99a5-c1484712570a/UjdB9DRdlkiMs44czIWsVw-259.jpg&#x27;);"></div>
+                        <h1 class="not-drag">امیر آزاد</h1>
                             <h2 class="not-drag">برنامه نویسی</h2>
                         <div class="other-infos not-drag">
     
             <div class="basic__birthday">
                 <span>متولد:</span>
-                    <span>۱۳۷۹/۱/۹</span>
+                    <span>1384/۱/12</span>
             </div>
 
             <div class="basic__marital">
