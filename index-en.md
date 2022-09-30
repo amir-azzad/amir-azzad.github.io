@@ -47,13 +47,12 @@ title: English Resume
 + Marketing activities
 + Internet advertising
 + Operator
-+ Site and cyberspace management and ads on the site and virtual magazine
   
 ### Quality training
 
 ---
 + Diploma in humanism
-  Ahad Zade High School
++Ahad Zade High School
   
 
  
