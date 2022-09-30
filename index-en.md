@@ -52,7 +52,7 @@ title: English Resume
 
 ---
 + Diploma in humanism
-+Ahad Zade High School
++ Ahad Zade High School
   
 
  
