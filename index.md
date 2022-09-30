@@ -272,16 +272,7 @@ layout:
                                     <div class="circle-progress__title"> برنامه های افیس</div>
                                 </div>
                             </li>
-                            <li>
-                                <div class="c100 p60 small">
-                                    <span>60%</span>
-                                    <div class="slice">
-                                        <div class="bar"></div>
-                                        <div class="fill"></div>
-                                    </div>
-                                    <div class="circle-progress__title"> برنامه فتوشاپ</div>
-                                </div>
-                            </li>
+                            
                             <li>
                                 <div class="c100 p60 small">
                                     <span>60%</span>
@@ -299,39 +290,12 @@ layout:
                                         <div class="bar"></div>
                                         <div class="fill"></div>
                                     </div>
-                                    <div class="circle-progress__title"> کورل</div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="c100 p80 small">
-                                    <span>80%</span>
-                                    <div class="slice">
-                                        <div class="bar"></div>
-                                        <div class="fill"></div>
-                                    </div>
-                                    <div class="circle-progress__title">طراحی و نقاشی</div>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="c100 p40 small">
-                                    <span>40%</span>
-                                    <div class="slice">
-                                        <div class="bar"></div>
-                                        <div class="fill"></div>
-                                    </div>
+                                   
+                                 
                                     <div class="circle-progress__title"># c</div>
                                 </div>
                             </li>
-                            <li>
-                                <div class="c100 p40 small">
-                                    <span>40%</span>
-                                    <div class="slice">
-                                        <div class="bar"></div>
-                                        <div class="fill"></div>
-                                    </div>
-                                    <div class="circle-progress__title"> زبان برنامه نویس جاوا</div>
-                                </div>
-                            </li>
+                          
                             <li>
                                 <div class="c100 p40 small">
                                     <span>40%</span>
@@ -538,19 +502,13 @@ layout:
         </div>
         <div class="property-item_body">
             <ul class="history multi-line">
+
                     <li>
-                        <h2 class="subtitle">کارشناسی  مهندسی کامپیوتر</h2>
-                        <h3 class="subtitle">گرایش: نرم افزار</h3>
-                                    <h3 class="subtitle">موسسه/دانشگاه: پیام نور البرز <label>پیام نور</label></h3>
-                                                    <label class="date">ورودی سال  ۱۳۹۷</label>
-                                                    <label class="Education-Grade">معدل : ۱۶</label>
-                    </li>
-                    <li>
-                        <h2 class="subtitle">دیپلم  ریاضی فیزیک</h2>
+                        <h2 class="subtitle">دیپلم  انسانی</h2>
                         <h3 class="subtitle"></h3>
-                                    <h3 class="subtitle">موسسه/مدرسه: دبیرستان رضوان <label>دولتی</label></h3>
-                                                    <label class="date"> ۱۳۹۳ -  ۱۳۹۷</label>
-                                                    <label class="Education-Grade">معدل : ۱۵</label>
+                                    <h3 class="subtitle">موسسه/مدرسه: دبیرستان فرهنگ شهید احد زاده <label>دولتی</label></h3>
+                                                    <label class="date"> ۱۴۰۲ -  ۱۴۰۱</label>
+                                                    <label class="Education-Grade">معدل : ۱۹</label>
                     </li>
             </ul>
         </div>
@@ -566,11 +524,11 @@ layout:
         <div class="property-item_body">
             <ul class="history multi-line">
                         <li class="853377">
-                            <h2 class="subtitle">اپراتور</h2>
+                            <h2 class="subtitle">کارشناس فروش</h2>
                             <h3 class="subtitle">
 
                             </h3>
-                                <label class="date">آغاز همکاری از اردیبهشت ۱۳۹۹</label>
+                                <label class="date">آغاز همکاری از خرداد ۱۴۰۰</label>
 
                                 <label class="exp-desc-title">وظایف و دستاوردها</label>
                                 <ul class="exp-desc">
